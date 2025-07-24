@@ -458,7 +458,10 @@
     "Squirrel cage induction motor",
     "DC series motor",
     "Universal motorAnswer"
+      ],
+      "correct_answer":"Stepper motor",
     "Explanation": "Stepper motors provide precise control for textile looms."
 }
+  ]
 }
-}
+
